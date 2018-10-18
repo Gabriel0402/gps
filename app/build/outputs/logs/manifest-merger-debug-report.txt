@@ -1,0 +1,96 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\cz4g16\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\711ef1edbd3893f4c4305020a9b5e004\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\cz4g16\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\e5afb0a2ad1e44869124c5abd1175bb5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\cz4g16\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\7e2f08b05b48efef9f6d560bb006f17f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\cz4g16\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\8e3c03915670ac0dabd3e3cce195f471\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\cz4g16\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\88ea844eb7c7607d0f47dd28225a6f46\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\cz4g16\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\628292377098bae7baaaa2c1759c8f86\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\cz4g16\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\6b698e924e78116910015849f6934b66\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\cz4g16\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c5bd9528aa0f2f158a4c34f26aa10539\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\cz4g16\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e0b542b540b9ec9ceeba46cf18fc6371\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\cz4g16\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5b1865487759535aacc920c661219884\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\cz4g16\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cb105f516b521014c54e96d5010c3633\AndroidManifest.xml:17:1-22:12
+INJECTED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml
+		INJECTED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml
+		INJECTED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml
+		INJECTED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\cz4g16\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\711ef1edbd3893f4c4305020a9b5e004\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\cz4g16\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\711ef1edbd3893f4c4305020a9b5e004\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\cz4g16\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\e5afb0a2ad1e44869124c5abd1175bb5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\cz4g16\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\e5afb0a2ad1e44869124c5abd1175bb5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\cz4g16\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\7e2f08b05b48efef9f6d560bb006f17f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\cz4g16\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\7e2f08b05b48efef9f6d560bb006f17f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\cz4g16\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\8e3c03915670ac0dabd3e3cce195f471\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\cz4g16\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\8e3c03915670ac0dabd3e3cce195f471\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\cz4g16\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\88ea844eb7c7607d0f47dd28225a6f46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\cz4g16\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\88ea844eb7c7607d0f47dd28225a6f46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\cz4g16\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\628292377098bae7baaaa2c1759c8f86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\cz4g16\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\628292377098bae7baaaa2c1759c8f86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\cz4g16\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\6b698e924e78116910015849f6934b66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\cz4g16\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\6b698e924e78116910015849f6934b66\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\cz4g16\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c5bd9528aa0f2f158a4c34f26aa10539\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\cz4g16\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c5bd9528aa0f2f158a4c34f26aa10539\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\cz4g16\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e0b542b540b9ec9ceeba46cf18fc6371\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\cz4g16\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e0b542b540b9ec9ceeba46cf18fc6371\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\cz4g16\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5b1865487759535aacc920c661219884\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\cz4g16\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5b1865487759535aacc920c661219884\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\cz4g16\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cb105f516b521014c54e96d5010c3633\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\cz4g16\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cb105f516b521014c54e96d5010c3633\AndroidManifest.xml:20:5-44
+INJECTED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml
+		INJECTED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml
+		INJECTED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml
+application
+ADDED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml:11:5-25:19
+	android:label
+		ADDED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml:15:9-47
+activity#com.example.movr.MainActivity
+ADDED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml:17:13-57
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from H:\mydesktop\android-multisensorgrabber-2-master\movr-master1\app\src\main\AndroidManifest.xml:22:27-74

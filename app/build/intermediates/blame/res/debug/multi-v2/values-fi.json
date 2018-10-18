@@ -1,10 +1,20 @@
 {
     "logs": [
         {
-            "outputFile": "H:\\mydesktop\\android-multisensorgrabber-2-master\\movr-master1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fi\\values-fi.xml",
+            "outputFile": "/Users/chenyang/Documents/gps/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fi/values-fi.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\cz4g16\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\243f0f7e644cce5b61b92b9891b92794\\res\\values-fi\\values-fi.xml",
+                    "source": "/Users/chenyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d51a5e46cc557d56132f83ee901083a8/res/values-fi/values-fi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,213,313,414,500,605,723,810,892,972,1079,1182,1279,1385,1484,1588,1751,1850",
+                        "endColumns": "107,99,100,85,104,117,86,81,79,106,102,96,105,98,103,162,98,79",
+                        "endOffsets": "208,308,409,495,600,718,805,887,967,1074,1177,1274,1380,1479,1583,1746,1845,1925"
+                    }
+                },
+                {
+                    "source": "/Users/chenyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/96031e439f8f86b3c3a06f2e765312a4/res/values-fi/values-fi.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -18,16 +28,6 @@
                         "startOffsets": "1930",
                         "endColumns": "100",
                         "endOffsets": "2026"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\cz4g16\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\d17d290618617b2d6fa4580eaf6a3a96\\res\\values-fi\\values-fi.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,213,313,414,500,605,723,810,892,972,1079,1182,1279,1385,1484,1588,1751,1850",
-                        "endColumns": "107,99,100,85,104,117,86,81,79,106,102,96,105,98,103,162,98,79",
-                        "endOffsets": "208,308,409,495,600,718,805,887,967,1074,1177,1274,1380,1479,1583,1746,1845,1925"
                     }
                 }
             ]

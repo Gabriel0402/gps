@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "H:\\mydesktop\\android-multisensorgrabber-2-master\\movr-master1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v26\\values-v26.xml",
+            "outputFile": "/Users/chenyang/Documents/gps/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\cz4g16\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\d17d290618617b2d6fa4580eaf6a3a96\\res\\values-v26\\values-v26.xml",
+                    "source": "/Users/chenyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d51a5e46cc557d56132f83ee901083a8/res/values-v26/values-v26.xml",
                     "from": {
                         "startLines": "2,3,4,8,12,16",
                         "startColumns": "4,4,4,4,4,4",

@@ -3,7 +3,7 @@ package com.example.movr;
 import java.util.ArrayList;
 import java.util.Calendar;
 
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.support.v7.app.ActionBar;
 import android.support.v4.app.Fragment;
 import android.os.Bundle;
@@ -26,7 +26,7 @@ import android.hardware.Sensor;
 import android.hardware.SensorEvent;
 import android.hardware.SensorManager;
 
-public class MainActivity extends ActionBarActivity implements SensorEventListener, OnClickListener {
+public class MainActivity extends AppCompatActivity implements SensorEventListener, OnClickListener {
 	private SensorManager senSensorManager;
 	private Sensor senAccelerometer;
 	private TextView accelView;
@@ -51,7 +51,7 @@ public class MainActivity extends ActionBarActivity implements SensorEventListen
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		accelView = (TextView)findViewById(R.id.acceltxt);
-		c = Calendar.getInstance(); 
+		//c = Calendar.getInstance();
 		getSupportActionBar().setDisplayShowHomeEnabled(false);
 		getSupportActionBar().setDisplayShowTitleEnabled(false);
 		sharedPref = this.getSharedPreferences("com.example.movr.CALIBRATION_DATA", Context.MODE_PRIVATE);
@@ -78,7 +78,7 @@ public class MainActivity extends ActionBarActivity implements SensorEventListen
 			{	
 				times.add(System.currentTimeMillis());
 
-			  	final float alpha = 0.8;
+			  	final float alpha = 0.8f;
 
 			  	// Isolate the force of gravity with the low-pass filter.
 			  	gravity[0] = alpha * gravity[0] + (1 - alpha) * event.values[0];

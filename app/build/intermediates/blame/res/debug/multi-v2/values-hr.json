@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "H:\\mydesktop\\android-multisensorgrabber-2-master\\movr-master1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hr\\values-hr.xml",
+            "outputFile": "/Users/chenyang/Documents/gps/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hr/values-hr.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\cz4g16\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\d17d290618617b2d6fa4580eaf6a3a96\\res\\values-hr\\values-hr.xml",
+                    "source": "/Users/chenyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d51a5e46cc557d56132f83ee901083a8/res/values-hr/values-hr.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\cz4g16\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\243f0f7e644cce5b61b92b9891b92794\\res\\values-hr\\values-hr.xml",
+                    "source": "/Users/chenyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/96031e439f8f86b3c3a06f2e765312a4/res/values-hr/values-hr.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
